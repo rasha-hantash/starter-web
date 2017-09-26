@@ -16,3 +16,8 @@ The main purpose is to show different parts of github
 ## Deployement
 OMG DEPLOYE IMMEDIATELY
 ## How To Contribute
+
+
+### Copyright
+
+2014 Git.rasha
