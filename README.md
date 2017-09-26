@@ -10,9 +10,9 @@ This example is to show different parts of Git repository and various commands u
 ## Purpose
 
 Sample website with plenty of files for demos
-
+Minor revision made
 The main purpose is to show different parts of github
 
 ## Deployement
-
+OMG DEPLOYE IMMEDIATELY
 ## How To Contribute
