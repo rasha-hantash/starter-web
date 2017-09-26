@@ -20,4 +20,4 @@ Please for this repository and then issue PUll requests for review
 
 ### Copyright
 
-2014 Git.rasha
+2014 Git.rasha All rights reserved.
