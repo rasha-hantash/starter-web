@@ -16,7 +16,7 @@ The main purpose is to show different parts of github
 ## Deployement
 OMG DEPLOYE IMMEDIATELY
 ## How To Contribute
-
+Please for this repository and then issue PUll requests for review
 
 ### Copyright
 
